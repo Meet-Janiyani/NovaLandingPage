@@ -1,16 +1,118 @@
-# React + Vite
+# Nova Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+Nova Landing Page is a modern interactive landing page built using React and Three.js. The project focuses on creating an immersive web experience using 3D graphics, animations, and modern UI design techniques.
 
-Currently, two official plugins are available:
+The landing page showcases how 3D elements can be integrated into web interfaces to create visually engaging product or studio presentations. Technologies such as React Three Fiber enable developers to build Three.js scenes using familiar React components and structure. :contentReference[oaicite:1]{index=1}
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project demonstrates creative frontend development using interactive graphics and modern web technologies.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- Interactive 3D elements rendered in the browser
+- Modern landing page layout
+- Smooth animations and transitions
+- Component-based React architecture
+- Responsive design structure
+- Clean and modular frontend code
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tech Stack
+
+Frontend  
+React.js
+
+3D Graphics  
+Three.js  
+React Three Fiber
+
+Styling  
+CSS / Modern UI styling
+
+Tools  
+Node.js  
+npm
+
+---
+
+## Project Structure
+
+```
+NovaLandingPage
+│
+├── public
+│
+├── src
+│   ├── components
+│   ├── assets
+│   ├── App.js
+│   └── main.jsx
+│
+├── package.json
+└── README.md
+```
+
+---
+
+## Installation
+
+Clone the repository
+
+```
+git clone https://github.com/Meet-Janiyani/NovaLandingPage.git
+```
+
+Navigate into the project folder
+
+```
+cd NovaLandingPage
+```
+
+Install dependencies
+
+```
+npm install
+```
+
+Run the development server
+
+```
+npm run dev
+```
+
+Open the local development server in your browser.
+
+---
+
+## Usage
+
+This project serves as a template for building modern interactive landing pages using React and Three.js.
+
+Developers can extend it to create:
+
+- Product landing pages
+- Game studio websites
+- Portfolio landing pages
+- Interactive marketing pages
+
+---
+
+## Future Improvements
+
+- Additional 3D models and environments
+- Scroll-based animations
+- Performance optimizations
+- Improved responsive layouts
+- Deployment-ready configuration
+
+---
+
+## Author
+
+Meet Janiyani
+
+GitHub  
+https://github.com/Meet-Janiyani
