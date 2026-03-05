@@ -3,9 +3,26 @@
 ## Overview
 Nova Landing Page is a modern interactive landing page built using React and Three.js. The project focuses on creating an immersive web experience using 3D graphics, animations, and modern UI design techniques.
 
-The landing page showcases how 3D elements can be integrated into web interfaces to create visually engaging product or studio presentations. Technologies such as React Three Fiber enable developers to build Three.js scenes using familiar React components and structure. :contentReference[oaicite:1]{index=1}
+The landing page demonstrates how 3D elements can be integrated into web interfaces to create visually engaging product or studio presentations using component-based frontend development.
 
-This project demonstrates creative frontend development using interactive graphics and modern web technologies.
+---
+
+## Live Demo
+
+Live Website  
+https://your-live-link.com
+
+---
+
+## Screenshots
+
+### Landing Page
+![Landing Page Screenshot](screenshots/landing.png)
+
+### 3D Section
+![3D Section Screenshot](screenshots/scene.png)
+
+*(Add your screenshots inside a `screenshots` folder in the repository.)*
 
 ---
 
@@ -30,7 +47,7 @@ Three.js
 React Three Fiber
 
 Styling  
-CSS / Modern UI styling
+CSS
 
 Tools  
 Node.js  
@@ -50,6 +67,10 @@ NovaLandingPage
 │   ├── assets
 │   ├── App.js
 │   └── main.jsx
+│
+├── screenshots
+│   ├── landing.png
+│   └── scene.png
 │
 ├── package.json
 └── README.md
@@ -89,13 +110,13 @@ Open the local development server in your browser.
 
 ## Usage
 
-This project serves as a template for building modern interactive landing pages using React and Three.js.
+This project can be used as a base template for building modern interactive landing pages with 3D graphics.
 
-Developers can extend it to create:
+Possible use cases include:
 
 - Product landing pages
 - Game studio websites
-- Portfolio landing pages
+- Developer portfolio pages
 - Interactive marketing pages
 
 ---
@@ -106,7 +127,6 @@ Developers can extend it to create:
 - Scroll-based animations
 - Performance optimizations
 - Improved responsive layouts
-- Deployment-ready configuration
 
 ---
 
