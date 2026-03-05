@@ -9,8 +9,8 @@ The landing page demonstrates how 3D elements can be integrated into web interfa
 
 ## Live Demo
 
-Live Website  
-https://your-live-link.com
+Live Website  [
+https://nova-landing-page-zeta.vercel.app/
 
 ---
 
