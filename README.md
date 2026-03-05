@@ -10,19 +10,14 @@ The landing page demonstrates how 3D elements can be integrated into web interfa
 ## Live Demo
 
 Live Website  [
-https://nova-landing-page-zeta.vercel.app/
+https://nova-landing-page-zeta.vercel.app/]
 
 ---
 
 ## Screenshots
 
 ### Landing Page
-![Landing Page Screenshot](screenshots/landing.png)
-
-### 3D Section
-![3D Section Screenshot](screenshots/scene.png)
-
-*(Add your screenshots inside a `screenshots` folder in the repository.)*
+![Landing Page Screenshot](screenshots/LandingPage.png)
 
 ---
 
