@@ -110,9 +110,3 @@ Developers can extend it to create:
 
 ---
 
-## Author
-
-Meet Janiyani
-
-GitHub  
-https://github.com/Meet-Janiyani
